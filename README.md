@@ -3,14 +3,6 @@
 > **Vercel Zero to Agent Hackathon 2026** | Track 1 + Track 2  
 > Built with Next.js + Supabase + Groq AI + Gmail MCP
 
-![NIYUKTAi Dashboard](https://niyukt-ai.vercel.app)
-
----
-
-## 🚀 Live Demo
-
-**[niyukt-ai.vercel.app](https://niyukt-ai.vercel.app)**
-
 ---
 
 ## 💡 Problem Statement
