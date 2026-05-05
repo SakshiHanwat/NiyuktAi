@@ -252,10 +252,7 @@ Score < 50  → Reject ❌
 
 ## 👩‍💻 Built By
 
-**Sakshi Hanwat**  
-B.Tech CSE | SKC Lakshmi Narain College of Technology and Science, Indore  
-GitHub: [@SakshiHanwat](https://github.com/SakshiHanwat)  
-LinkedIn: [Sakshi Hanwat](https://www.linkedin.com/in/sakshi-hanwat-b4722b254/)
+**Sakshi Hanwat** 
 
 ---
 
